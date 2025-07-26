@@ -1,1 +1,1 @@
-print("Hello world!")
+print(f"Obrigado, seu nome possue: {len(input("Digite seu nome aqui: "))} caracteres!", )
